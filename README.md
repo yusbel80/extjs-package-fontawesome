@@ -7,4 +7,4 @@ Replace your <project_home>/ext(framework_dir)/packages/font-awesome/ with <this
 
 then run:
 sencha app refresh
-semcja app watch
+sencha app watch
